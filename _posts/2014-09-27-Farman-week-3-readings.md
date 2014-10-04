@@ -1,5 +1,5 @@
 ---
-title: week 3 readings
+title: Thoughts on the OpenRefine Tutorial
 date: 2014-10-04
 author: Jennifer Farman
 layout: post
