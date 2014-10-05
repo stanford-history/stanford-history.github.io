@@ -10,7 +10,7 @@
   
   That being said, the next time I do encounter a large data set like this I will definitely see what I can accomplish with OpenRefine.  This is clearly a powerful tool.
   
-  ##Discussion Questions
+##Discussion Questions
   
   1. How versatile is OpenRefine with data formats?  I assume something like an Excel file would be no problem, but what about data from foreign applications or websites?
   
