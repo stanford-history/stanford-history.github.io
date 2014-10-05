@@ -2,7 +2,7 @@
 
 ##Blog Post
   
-  A lot of the data I work with come from outside sources and are organized with varying attention to detail.  While this information rarely comes sorted into a digital database I do encounter the rare spreadsheet or Excel file of half-jumbled information.  In these instances, I can definitely see the utility of something like OpenRefine in my work.  The ability to refine raw data so that it is more receptive to analysis, and to hammer out inconsistencies and duplicates difficult to discern manually, would be a huge asset in these situations.
+  A lot of the data I work with come from outside sources and are organized with varying attention to detail.  While this information rarely comes sorted into a digital database I do encounter the occasional spreadsheet or Excel file of half-jumbled information.  In these instances, I can definitely see the utility of something like OpenRefine in my work.  The ability to refine raw data so that it is more receptive to analysis, and to hammer out inconsistencies and duplicates difficult to discern manually, would be a huge asset in these situations.
   
   I will say that I did not find the format of OpenRefine intuitive.  The difference between viewing in rows and records, for example, made sense for the purposes of the tutorial, but I was confused as to what this would mean for other usages of the application.  Additionally, the real power of OpenRefine seems to be in the ability to "transform" cells, a function that requires learning a separate set of commands unique to the program (or at least unknown to me).  I also encountered a couple technical errors when trying to load OpenRefine, and had to reboot my computer and start over my project a number of times.
   
