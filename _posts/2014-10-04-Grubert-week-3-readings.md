@@ -1,5 +1,6 @@
 ---
 title: 2014-10-04-Grubert-week-3-readings
+date: 2014-10-04
 author: Emily Grubert
 format: post
 ---
