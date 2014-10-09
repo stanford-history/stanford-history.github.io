@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reflections of OpenRefine
-
+author: Wayne Shu
 ---
 
 Open Refine seems like a spreadsheet on steroids ( I thought this before I read it in the tutorial!) 
