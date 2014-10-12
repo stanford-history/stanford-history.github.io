@@ -1,8 +1,7 @@
-
 ---
-layout:post
-date:10-11-2014
-author:Wayne Shu
+layout: post
+date: 10-11-2014
+author: Wayne Shu
 title: Textual Analysis
 ---
 
