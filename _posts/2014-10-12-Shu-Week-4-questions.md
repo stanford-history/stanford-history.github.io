@@ -1,7 +1,7 @@
 ---
-layout:post
-title:Discussion Questions
-author:Wayne Shu
+layout: post
+title: Discussion Questions
+author: Wayne Shu
 ---
 
 1. These tools seem to have high potential for the digital humanities, but I'm curious whether similar tools of machine learning and textual analysis have already been used for other fields such as translation or voice recognition?
