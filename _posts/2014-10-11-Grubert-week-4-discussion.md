@@ -1,5 +1,5 @@
 ---
-title: 2014-10-11-Grubert-week-3-discussion
+title: 2014-10-11-Grubert-week-4-discussion
 date: 2014-10-11
 author: Emily Grubert
 layout: post
