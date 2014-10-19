@@ -6,7 +6,7 @@ title: Digital Maps
 
 
 
-Here's SF in 1915: ![Image](/image/caltrain.png)
+Here's SF in 1915: ![Image](/images/caltrain.png)
  
  
 It's pretty neat seeing the similarities and differences of a place nearly 100 years apart. Time may fly but changes on the good earth are
@@ -19,11 +19,11 @@ I found some other interesting maps while browsing the web.
 
 Here's one of Silicon Valley companies in 2009: 
 
-![Image](/image/sv09.png)
+![Image](/images/sv09.png)
 
 versus 2014: 
 
-![Image](/image/sv14.png)
+![Image](/images/sv14.png)
 
 
 It's interesting seeing the differences in the companies. Additionally, I think these maps are a bit inaccurate location-wise (just look at where
