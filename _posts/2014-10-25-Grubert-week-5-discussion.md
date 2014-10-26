@@ -1,5 +1,5 @@
 ---
-title: Grubert-2014-10-25-week-5-discussion
+title: 2014-10-25-Grubert-week-5-discussion
 author: Grubert
 date: 2014-10-25
 layout: post
