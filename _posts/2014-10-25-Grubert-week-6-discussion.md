@@ -1,8 +1,8 @@
 ---
-title:2014-10-25-Grubert-week-6-questions
-author:Grubert
-date:2014-10-25
-layout:post
+title: 2014-10-25-Grubert-week-6-discussion
+author: Grubert
+date: 2014-10-25
+layout: post
 ---
 
 1) A few readings called on historians to write their own algorithms. Should history majors / grad students be exposed to programming and DH as part of a basic history curriculum?
