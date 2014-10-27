@@ -1,6 +1,6 @@
 ---
 Title: Week 6 Blog + DQs
-Date: 10-26-2014
+Date: 2014-10-27 15:04:36
 Author: James Hanley
 Layout: Post
 ---
