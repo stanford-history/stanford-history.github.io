@@ -1,9 +1,9 @@
 ---
 layout: post
 author: Wayne
-title: Week 6
+title: Week 7
 ---
-## Week 6
+## Week 7
 
 It's easy to simply say yes with a prompt like this( and in the context of the class). Ostensibly,  hypertext can show the connections between events around the same time; interactivity can enable us to better understand or dive deep into a historical concept that is harder to grapple with via pure text.
 
