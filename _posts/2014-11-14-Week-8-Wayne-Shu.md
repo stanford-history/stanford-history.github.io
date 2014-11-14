@@ -1,8 +1,8 @@
-===
+---
 layout: post
 title: Closing Thoughts
 author: Wayne 
-===
+---
 Thoughts on Digital History
 
 
